@@ -1,5 +1,5 @@
 [project]
-name = "module"
+name = "RFmodule"
 version = "0.1.0"
 description = "A collection of useful Python functions to create finely tuned classification and regression models"
 readme = "README.md"
